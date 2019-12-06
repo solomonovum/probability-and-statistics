@@ -4,7 +4,7 @@ probability and statistics wrap up
 1. Elementary Statistics
 2. Organizing Materials
 3. Probability & Probability Distribution
-4. Continuous Random Variable
+4. Continuous Random Variable & Probability Distribution
 5. Joint Probability Distribution
 6. Sampling Distribution & Central Limit Theorem
 7. Estimation
