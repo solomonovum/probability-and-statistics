@@ -8,7 +8,7 @@ probability and statistics wrap up
 5. Joint Probability Distribution
 6. Sampling Distribution & Central Limit Theorem
 7. Estimation
-8. Hypothesis Test
+8. Hypothesis Testing
 9. Standard Normal Distribution
 10. Student’s t-distribution
 11. Fisher–Snedecor Distribution
